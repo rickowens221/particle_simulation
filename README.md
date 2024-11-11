@@ -29,6 +29,8 @@ python particle_simulation.py
 Left Click: Hold the left mouse button to attract particles to the cursor.
 Release Mouse: Particles continue their motion without attraction.
 
+## Configuration
+
 Modify these variables in particle_simulation.py to adjust the simulation:
 
 num_particles: Number of particles in the simulation.
