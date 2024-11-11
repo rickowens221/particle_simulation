@@ -34,6 +34,9 @@ Release Mouse: Particles continue their motion without attraction.
 Modify these variables in particle_simulation.py to adjust the simulation:
 
 num_particles: Number of particles in the simulation.
+
 friction: Friction factor that slows down particle speed over time.
+
 chaos_intensity: Intensity of chaotic motion when no attraction is applied.
+
 force: Maximum attraction force applied when the cursor is held down.
